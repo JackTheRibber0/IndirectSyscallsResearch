@@ -1,4 +1,4 @@
-# IndirectSyscallsResearch
+# Indirect Windows System Calls Research
 # Legal Disclaimer
 Educational and Research Purposes Only
 This software is provided strictly for academic research, educational purposes, and authorized security testing. 
